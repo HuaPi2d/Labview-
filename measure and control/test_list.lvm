@@ -1,0 +1,5 @@
+channel	physical quantity	unit	maxV	minV	function	on/off
+PXI1Slot2/ai0	voltage	V	1	-1	original	1
+PXI1Slot2/ai1	temperatrue	C	5	0	polynomial/0/1/273	1
+PXI1Slot2/ai4:5	current	A	5	-5	polynomial/0/2/3	0
+PXI1Slot2/ai6:7	pressure	MPa	3	-4	original	1
