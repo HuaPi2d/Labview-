@@ -1,0 +1,5 @@
+channel	name	on/off
+Dev1/port0/line0	button1	1
+Dev1/port0/line2	button2	1
+Dev1/port0/line3	button3	0
+Dev1/port0/line5	button4	1
